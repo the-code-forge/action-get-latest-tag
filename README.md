@@ -90,7 +90,7 @@ Action Get Latest Tag is released under the [Apache License 2.0](./LICENSE).
 <!-- badge links -->
 
 [actions-workflow-lint]: https://github.com/the-code-forge/action-get-latest-tag/actions?query=workflow%3ALint
-[actions-workflow-lint-badge]: https://img.shields.io/github/workflow/status/the-code-forge/action-get-latest-tag/Lint?label=Lint&style=for-the-badge&logo=github
+[actions-workflow-lint-badge]: https://img.shields.io/github/actions/workflow/status/the-code-forge/action-get-latest-tag/lint.yml?branch=main&label=Lint&style=for-the-badge&logo=github
 
 [release]: https://github.com/the-code-forge/action-get-latest-tag/releases
 [release-badge]: https://img.shields.io/github/v/release/the-code-forge/action-get-latest-tag?style=for-the-badge&logo=github
