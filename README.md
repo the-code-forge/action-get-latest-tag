@@ -96,4 +96,4 @@ Action Get Latest Tag is released under the [Apache License 2.0](./LICENSE).
 [release-badge]: https://img.shields.io/github/v/release/the-code-forge/action-get-latest-tag?style=for-the-badge&logo=github
 
 [license]: LICENSE
-[license-badge]: https://img.shields.io/github/license/the-code-forge/action-add-labels?style=for-the-badge
+[license-badge]: https://img.shields.io/github/license/the-code-forge/action-get-latest-tag?style=for-the-badge
